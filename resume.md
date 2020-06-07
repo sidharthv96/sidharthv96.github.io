@@ -34,7 +34,7 @@
 
 # Education
 
-Bachelor of Technology, Computer Science (2014-2018) | [Government Engineering College, Thrissur](http://gectcr.ac.in/)
+Bachelor of Technology, Computer Science and Engineering (2014-2018) | [Government Engineering College, Thrissur](http://gectcr.ac.in/)
 
 # Open Source
 
