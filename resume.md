@@ -5,25 +5,25 @@
 #### Helios-Webhooks (January '19 - Present)
 
 - Lead developer of the service which facilitates to Integrate Webhooks functionality to any internal product with [CloudEvent](https://cloudevents.io/) spec
-- **Microservices** (Java & Node.js on Kubernetes), Kafka, Vault, CI/CD (Gitlab, Jenkins & Helm)
-- Multiple endpoint-authentication (Basic, HMAC, OAuth2.0, IDCS) support
-- At least once delivery, Automatic Retries with exponential back off
-- Endpoint blacklisting, Dead letter requeuing and Message expiry
+  - **Microservices** (Java & Node.js on Kubernetes), Kafka, Vault, CI/CD (Gitlab, Jenkins & Helm)
+  - Multiple endpoint-authentication (Basic, HMAC, OAuth2.0, IDCS) support
+  - At least once delivery, Automatic Retries with exponential back off
+  - Endpoint blacklisting, Dead letter requeuing and Message expiry
 
 #### Helios-Extensions (March '20 - Present)
 
 - Allows customers to write custom code to act on system events using Webhooks and **Serverless** Platform (Oracle Fn)
-- I Designed the **mutli tenancy architecture** which allows managing and running customer functions securely
+- Designed the **mutli tenancy architecture** which allows managing and running customer functions securely
 - Created a **federated Docker registry proxy** service which allows customers to push containers with 0-config while managing access control and tenant data segregation.
 
-#### Vision
+#### Vision (September '19 - Present)
 
 - Created a Typescript library to provide core functionality required to build a Microservice with Node.js
-- Kafka - Avro schemas | Transparent message encryption with Vault
-- HTTP endpoints - Express | Swagger
-- Service AuthN/AuthZ - JWT | Vault
-- Metrics & Health checks - Prometheus
-- Dependency Injection, Easy structured logging, Comprehensive test coverage and test helpers
+  - Kafka - Avro schemas | Transparent message encryption with Vault
+  - HTTP endpoints - Express | Swagger
+  - Service AuthN/AuthZ - JWT | Vault
+  - Metrics & Health checks - Prometheus
+  - Dependency Injection, Easy structured logging, Comprehensive test coverage and test helpers
 
 #### [Element Manager](http://documentation.custhelp.com/euf/assets/devdocs/buiadmin/topicrefs/c_bui_Overview_Element_Manager.html) (June '18 - January '19)
 
