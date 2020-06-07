@@ -6,15 +6,15 @@ Helios-Webhooks (January '19 - Present)
 
 - Lead developer of the service which facilitates to Integrate Webhooks functionality to any internal product with [CloudEvent](https://cloudevents.io/) spec
 - Kubernetes Microservices (Java & Node.js), Kafka, Vault, CI/CD (Gitlab, Jenkins & Helm)
-- Multiple endpoint-autentication (Basic, HMAC, OAuth2.0, IDCS) support
-- Atleast once delivery, Automatic Retries with exponential backoff
-- Endpoint blacklisting, Deadletter requeuing and Message expiry
+- Multiple endpoint-authentication (Basic, HMAC, OAuth2.0, IDCS) support
+- At least once delivery, Automatic Retries with exponential back off
+- Endpoint blacklisting, Dead letter requeuing and Message expiry
 
 Helios-Extensions (March '20 - Present)
 
 - Allows customers to write custom code to act on system events using Webhooks and Serverless Platform (Oracle Fn)
 - I Designed the mutli tenancy architecture which allows managing and running customer functions securely
-- Created a federated Docker registry proxy service which allows cutomers to push containers with 0-config while managing access control and tenant data segeregation.
+- Created a federated Docker registry proxy service which allows customers to push containers with 0-config while managing access control and tenant data segregation.
 
 Vision
 
@@ -34,11 +34,11 @@ Vision
 
 # Education
 
-Bachelor of Technology, Computer Science (2014-2018) | Govenrnment Engineering College, Thrissur
+Bachelor of Technology, Computer Science (2014-2018) | Government Engineering College, Thrissur
 
-# OpenSource
+# Open Source
 
-I'm an avid open source advocate and have contributed to multiple pojects.
+I'm an avid open source advocate and have contributed to multiple projects.
 
 | Project                                                                                | Stars                                                                                     |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -67,7 +67,7 @@ Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
 
 # Technologies
 
-- Languages : Java, TypeScript/Javascript, Python
+- Languages : Java, TypeScript/JavaScript, Python
 - Backend : Spring, Express
 - UI : Vue, Svelte, JET
 - Testing : JUnit, Jest, K6
