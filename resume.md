@@ -10,8 +10,7 @@ Helios-Webhooks
 
 Helios-Extensions
 
-- Allow customer to write custom code to act on system events.
-- Uses Webhooks and Serverless Platform (Oracle Fn)
+- Allow customer to write custom code to act on system events using Webhooks and Serverless Platform (Oracle Fn)
 - Designed the mutli tenancy architecture which allows managint and running customer functions securely
 - Created a federated Docker registry poxy service which allows cutomers to push containers with 0-config while managing access control and tenant data segeregation.
 
