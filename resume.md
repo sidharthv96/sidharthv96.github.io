@@ -62,7 +62,7 @@ I'm an avid open source advocate and have contributed to multiple projects.
   - Multiple Judgement Panels with Different Point systems, Non-Colliding Time slots for Teams, Volunteer Co-ordination Reports
   - Promotional Games to drive engagement
 
-#### Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
+#### Automated-OSINT - [Turgensec UK](https://community.turgensec.com/) (Consultancy)
 
 - Revamped the intelligence gathering tool to handle multiple data sources
 - Added company details data scraper
