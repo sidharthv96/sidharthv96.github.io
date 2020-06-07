@@ -13,7 +13,7 @@
 #### Helios-Extensions (March '20 - Present)
 
 - Allows customers to write custom code to act on system events using Webhooks and **Serverless** Platform (Oracle Fn)
-- I Designed the **mutli tenancy architecture** which allows managing and running customer functions securely
+- Designed the **mutli tenancy architecture** which allows managing and running customer functions securely
 - Created a **federated Docker registry proxy** service which allows customers to push containers with 0-config while managing access control and tenant data segregation.
 
 #### Vision
