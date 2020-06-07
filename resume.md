@@ -2,7 +2,7 @@
 
 ## Oracle (June '18 - Present)
 
-Helios-Webhooks (January '19 - Present)
+#### Helios-Webhooks (January '19 - Present)
 
 - Lead developer of the service which facilitates to Integrate Webhooks functionality to any internal product with [CloudEvent](https://cloudevents.io/) spec
 - Kubernetes Microservices (Java & Node.js), Kafka, Vault, CI/CD (Gitlab, Jenkins & Helm)
@@ -10,13 +10,13 @@ Helios-Webhooks (January '19 - Present)
 - At least once delivery, Automatic Retries with exponential back off
 - Endpoint blacklisting, Dead letter requeuing and Message expiry
 
-Helios-Extensions (March '20 - Present)
+#### Helios-Extensions (March '20 - Present)
 
 - Allows customers to write custom code to act on system events using Webhooks and Serverless Platform (Oracle Fn)
 - I Designed the mutli tenancy architecture which allows managing and running customer functions securely
 - Created a federated Docker registry proxy service which allows customers to push containers with 0-config while managing access control and tenant data segregation.
 
-Vision
+#### Vision
 
 - Created a Typescript library to provide core functionality required to build a Microservice with Node.js
 - Kafka - Avro schemas | Transparent message encryption with Vault
@@ -25,7 +25,7 @@ Vision
 - Metrics & Health checks - Prometheus
 - Dependency Injection, Easy structured logging, Comprehensive test coverage and test helpers
 
-[Element Manager](http://documentation.custhelp.com/euf/assets/devdocs/buiadmin/topicrefs/c_bui_Overview_Element_Manager.html) (June '18 - January '19)
+#### [Element Manager](http://documentation.custhelp.com/euf/assets/devdocs/buiadmin/topicrefs/c_bui_Overview_Element_Manager.html) (June '18 - January '19)
 
 - Product that supports Import/Export of Custom Elements like Reports, Workspaces, etc in Oracle Service Cloud
 - Redesigned the UI to improve UX
@@ -49,18 +49,18 @@ I'm an avid open source advocate and have contributed to multiple projects.
 
 # Projects
 
-Engineering Spot Allotment - Kerala Government
+#### Engineering Spot Allotment - Kerala Government
 
 - Developed system to allot 1000+ students to seats in Government Colleges based on multiple allotment and reservation rules.
 - Reduced the runtime from 45+ Min to ~1 Min
 
-CX-Hyperconnect Hackathon Management System
+#### CX-Hyperconnect Hackathon Management System
 
 - Participant Registration, Team Formations, Idea Wall
 - Multiple Judgement Panels with Different Point systems, Non-Colliding Time slots for Teams, Volunteer Co-ordination Reports
 - Promotional Games to drive engagement
 
-Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
+#### Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
 
 - Revamped the intelligence gathering tool to handle multiple data sources
 - Added company details data scraper
@@ -76,16 +76,16 @@ Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
 
 # Hackathons
 
-### Best Hack, Oracle Service Cloud Hackathon, 2019
+#### Best Hack, Oracle Service Cloud Hackathon, 2019
 
-Idea: Object Versioning
+Object Versioning
 
 Versioning of OSvC Object metadata into Object Storage in OCI (Cloud Native Managed Services) using a Webhooks Adapter MicroService.
 
 ---
 
-### Honourable Mention - Best Productivity, Oracle Service Cloud Hackathon, 2019
+#### Honourable Mention - Best Productivity, Oracle Service Cloud Hackathon, 2019
 
-Idea: Serverless Jenkins
+Serverless Jenkins
 
 Run Jenkins as a Service on demand using the OCI platform. Developer collaboration is done using Slack.
