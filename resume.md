@@ -32,6 +32,10 @@ Vision
 - Created a Generic Framework to standardise Metadata management for multiple types of objects.
 - Developed a Jenkins Pipeline to automate exports and imports for different sites using Element Manager Public API
 
+# Education
+
+Bachelor of Technology, Computer Science (2014-2018) | Govenrnment Engineering College, Thrissur
+
 # OpenSource
 
 I'm an avid open source advocate and have contributed to multiple pojects.
@@ -59,13 +63,29 @@ CX-Hyperconnect Hackathon Management System
 Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
 
 - Revamped the intelligence gathering tool to handle multiple data sources
-- Added a company details data scraper
+- Added company details data scraper
 
 # Technologies
 
-Languages : Java, TypeScript/Javascript, Python
-Backend : Spring, Express
-UI : Vue, Svelte, JET
-Testing : JUnit, Jest, K6
-Services : Kafka, PostgreSQL, Vault, Swagger
-Infrastructure : Docker, Kubernetes, Jenkins, Helm, Gitlab, OCI, AWS
+- Languages : Java, TypeScript/Javascript, Python
+- Backend : Spring, Express
+- UI : Vue, Svelte, JET
+- Testing : JUnit, Jest, K6
+- Services : Kafka, PostgreSQL, Vault, Swagger
+- Infrastructure : Docker, Kubernetes, Jenkins, Helm, Gitlab, OCI, AWS
+
+# Hackathons
+
+### Best Hack, Oracle Service Cloud Hackathon, 2019
+
+Idea: Object Versioning
+
+Versioning of OSvC Object metadata into Object Storage in OCI (Cloud Native Managed Services) using a Webhooks Adapter MicroService.
+
+---
+
+### Honourable Mention - Best Productivity, Oracle Service Cloud Hackathon, 2019
+
+Idea: Serverless Jenkins
+
+Run Jenkins as a Service on demand using the OCI platform. Developer collaboration is done using Slack.
