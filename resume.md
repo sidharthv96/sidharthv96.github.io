@@ -64,3 +64,8 @@ Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
 # Technologies
 
 Languages : Java, TypeScript/Javascript, Python
+Backend : Spring, Express
+UI : Vue, Svelte, JET
+Testing : JUnit, Jest, K6
+Services : Kafka, PostgreSQL, Vault, Swagger
+Infrastructure : Docker, Kubernetes, Jenkins, Helm, Gitlab, OCI, AWS
