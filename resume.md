@@ -1,18 +1,20 @@
-Helios-Webhooks
+# Professional Experience
 
-- Service which facilitates to Integrate Webhooks functionality to any internal product
-- Supports [CloudEvent](https://cloudevents.io/) spec
+## Oracle (June '18 - Present)
+
+Helios-Webhooks (January '19 - Present)
+
+- Lead developer of the service which facilitates to Integrate Webhooks functionality to any internal product with [CloudEvent](https://cloudevents.io/) spec
 - Kubernetes Microservices (Java & Node.js), Kafka, Vault, CI/CD (Gitlab, Jenkins & Helm)
-- Multiple endpoint autentication type support
+- Multiple endpoint-autentication (Basic, HMAC, OAuth2.0, IDCS) support
 - Atleast once delivery, Automatic Retries with exponential backoff
-- Endpoint blacklisting and optional Deadletter requeuing
-- Message expiry support
+- Endpoint blacklisting, Deadletter requeuing and Message expiry
 
-Helios-Extensions
+Helios-Extensions (March '20 - Present)
 
-- Allow customer to write custom code to act on system events using Webhooks and Serverless Platform (Oracle Fn)
-- Designed the mutli tenancy architecture which allows managint and running customer functions securely
-- Created a federated Docker registry poxy service which allows cutomers to push containers with 0-config while managing access control and tenant data segeregation.
+- Allows customers to write custom code to act on system events using Webhooks and Serverless Platform (Oracle Fn)
+- I Designed the mutli tenancy architecture which allows managing and running customer functions securely
+- Created a federated Docker registry proxy service which allows cutomers to push containers with 0-config while managing access control and tenant data segeregation.
 
 Vision
 
@@ -21,20 +23,44 @@ Vision
 - HTTP endpoints - Express | Swagger
 - Service AuthN/AuthZ - JWT | Vault
 - Metrics & Health checks - Prometheus
-- Easy structured logging - Pino
-- Dependency Injection - Inversify
-- Comprehensive test coverage and test helpers - Jest
+- Dependency Injection, Easy structured logging, Comprehensive test coverage and test helpers
+
+[Element Manager](http://documentation.custhelp.com/euf/assets/devdocs/buiadmin/topicrefs/c_bui_Overview_Element_Manager.html) (June '18 - January '19)
+
+- Product that supports Import/Export of Custom Elements like Reports, Workspaces, etc in Oracle Service Cloud
+- Redesigned the UI to improve UX
+- Created a Generic Framework to standardise Metadata management for multiple types of objects.
+- Developed a Jenkins Pipeline to automate exports and imports for different sites using Element Manager Public API
+
+# OpenSource
+
+I'm an avid open source advocate and have contributed to multiple pojects.
+
+| Project                                                                                | Stars                                                                                     |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Prettier](https://github.com/prettier/prettier/pulls?q=is%3Apr+author%3Asidharthv96+) | ![GitHub stars](https://img.shields.io/github/stars/prettier/prettier?style=social&label) |
+| [Strapi](https://github.com/strapi/strapi/pulls?q=is%3Apr+author%3Asidharthv96)        | ![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&label)     |
+| [Caprover](https://github.com/caprover/caprover/pulls?q=is%3Apr+author%3Asidharthv96)  | ![GitHub stars](https://img.shields.io/github/stars/caprover/caprover?style=social&label) |
+| [Manta](https://github.com/hql287/Manta/pulls?q=is%3Apr+author%3Asidharthv96)          | ![GitHub stars](https://img.shields.io/github/stars/hql287/Manta?style=social&label)      |
+
+# Projects
+
+Engineering Spot Allotment - Kerala Government
+
+- Developed system to allot 1000+ students to seats in Government Colleges based on multiple allotment and reservation rules.
+- Reduced the runtime from 45+ Min to ~1 Min
 
 CX-Hyperconnect Hackathon Management System
 
 - Participant Registration, Team Formations, Idea Wall
 - Multiple Judgement Panels with Different Point systems, Non-Colliding Time slots for Teams, Volunteer Co-ordination Reports
 - Promotional Games to drive engagement
-- Built with Oracle APEX
 
-Element Manager
+Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
 
-- Product that supports Import/Export of Custom Elements like Reports, Workspaces, etc in Oracle Service Cloud
-- Redesigned the UI to improve UX
-- Created a Generic Framework to standardise Metadata management for multiple types of objects.
-- Developed a Jenkins Pipeline to automate exports and imports for different sites using Element Manager Public API
+- Revamped the intelligence gathering tool to handle multiple data sources
+- Added a company details data scraper
+
+# Technologies
+
+Languages : Java, TypeScript/Javascript, Python
