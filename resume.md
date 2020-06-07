@@ -5,16 +5,16 @@
 #### Helios-Webhooks (January '19 - Present)
 
 - Lead developer of the service which facilitates to Integrate Webhooks functionality to any internal product with [CloudEvent](https://cloudevents.io/) spec
-- Kubernetes Microservices (Java & Node.js), Kafka, Vault, CI/CD (Gitlab, Jenkins & Helm)
+- **Microservices** (Java & Node.js on Kubernetes), Kafka, Vault, CI/CD (Gitlab, Jenkins & Helm)
 - Multiple endpoint-authentication (Basic, HMAC, OAuth2.0, IDCS) support
 - At least once delivery, Automatic Retries with exponential back off
 - Endpoint blacklisting, Dead letter requeuing and Message expiry
 
 #### Helios-Extensions (March '20 - Present)
 
-- Allows customers to write custom code to act on system events using Webhooks and Serverless Platform (Oracle Fn)
-- I Designed the mutli tenancy architecture which allows managing and running customer functions securely
-- Created a federated Docker registry proxy service which allows customers to push containers with 0-config while managing access control and tenant data segregation.
+- Allows customers to write custom code to act on system events using Webhooks and **Serverless** Platform (Oracle Fn)
+- I Designed the **mutli tenancy architecture** which allows managing and running customer functions securely
+- Created a **federated Docker registry proxy** service which allows customers to push containers with 0-config while managing access control and tenant data segregation.
 
 #### Vision
 
@@ -29,7 +29,7 @@
 
 - Product that supports Import/Export of Custom Elements like Reports, Workspaces, etc in Oracle Service Cloud
 - Redesigned the UI to improve UX
-- Created a Generic Framework to standardise Metadata management for multiple types of objects.
+- Created a **Generic Framework** to standardise Metadata management for multiple types of objects.
 - Developed a [Jenkins Pipeline](https://blogs.oracle.com/cx/this-is-why-customers-love-oracle-cx-service-element-manager-for-b2c) to automate exports and imports for different sites using Element Manager Public API
 
 # Education
@@ -52,7 +52,7 @@ I'm an avid open source advocate and have contributed to multiple projects.
 #### Engineering Spot Allotment - Kerala Government
 
 - Developed system to allot 1000+ students to seats in Government Colleges based on multiple allotment and reservation rules.
-- Reduced the runtime from 45+ Min to ~1 Min
+- Reduced the runtime from **45+ Min to ~1 Min**
 
 #### CX-Hyperconnect Hackathon Management System
 
