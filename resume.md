@@ -30,11 +30,11 @@
 - Product that supports Import/Export of Custom Elements like Reports, Workspaces, etc in Oracle Service Cloud
 - Redesigned the UI to improve UX
 - Created a Generic Framework to standardise Metadata management for multiple types of objects.
-- Developed a Jenkins Pipeline to automate exports and imports for different sites using Element Manager Public API
+- Developed a [Jenkins Pipeline](https://blogs.oracle.com/cx/this-is-why-customers-love-oracle-cx-service-element-manager-for-b2c) to automate exports and imports for different sites using Element Manager Public API
 
 # Education
 
-Bachelor of Technology, Computer Science (2014-2018) | Government Engineering College, Thrissur
+Bachelor of Technology, Computer Science (2014-2018) | [Government Engineering College, Thrissur](http://gectcr.ac.in/)
 
 # Open Source
 
