@@ -54,11 +54,13 @@ I'm an avid open source advocate and have contributed to multiple projects.
 - Developed system to allot 1000+ students to seats in Government Colleges based on multiple allotment and reservation rules.
 - Reduced the runtime from **45+ Min to ~1 Min**
 
-#### CX-Hyperconnect Hackathon Management System
+#### CX-Hyperconnect Hackathon
 
-- Participant Registration, Team Formations, Idea Wall
-- Multiple Judgement Panels with Different Point systems, Non-Colliding Time slots for Teams, Volunteer Co-ordination Reports
-- Promotional Games to drive engagement
+- Managed Pan India event successfully
+- Created system with
+  - Participant Registration, Team Formations, Idea Wall
+  - Multiple Judgement Panels with Different Point systems, Non-Colliding Time slots for Teams, Volunteer Co-ordination Reports
+  - Promotional Games to drive engagement
 
 #### Automated-OSINT - [Turgensec](https://community.turgensec.com/) (Consultancy)
 
