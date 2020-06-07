@@ -67,6 +67,14 @@ I'm an avid open source advocate and have contributed to multiple projects.
 - Revamped the intelligence gathering tool to handle multiple data sources
 - Added company details data scraper
 
+#### Hello KEPA
+
+- Developed application for Kerala Police to sync Official contacts across devices and send notifications
+
+#### Fuelive
+
+- Developed application tracking district level fuel prices in India. 50K Downloads
+
 # Technologies
 
 - Languages : Java, TypeScript/JavaScript, Python
