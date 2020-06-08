@@ -40,12 +40,12 @@ Bachelor of Technology, Computer Science and Engineering (2014-2018) | [Governme
 
 I'm an avid open source advocate and have contributed to multiple projects.
 
-| Project                                                                                | Stars                                                                                     |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Prettier](https://github.com/prettier/prettier/pulls?q=is%3Apr+author%3Asidharthv96+) | ![GitHub stars](https://img.shields.io/github/stars/prettier/prettier?style=social&label) |
-| [Strapi](https://github.com/strapi/strapi/pulls?q=is%3Apr+author%3Asidharthv96)        | ![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&label)     |
-| [Caprover](https://github.com/caprover/caprover/pulls?q=is%3Apr+author%3Asidharthv96)  | ![GitHub stars](https://img.shields.io/github/stars/caprover/caprover?style=social&label) |
-| [Manta](https://github.com/hql287/Manta/pulls?q=is%3Apr+author%3Asidharthv96)          | ![GitHub stars](https://img.shields.io/github/stars/hql287/Manta?style=social&label)      |
+| Project                                                                                | Stars                                                                                     | Description                                                            |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Prettier](https://github.com/prettier/prettier/pulls?q=is%3Apr+author%3Asidharthv96+) | ![GitHub stars](https://img.shields.io/github/stars/prettier/prettier?style=social&label) | An opinionated code formatter                                          |
+| [Strapi](https://github.com/strapi/strapi/pulls?q=is%3Apr+author%3Asidharthv96)        | ![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&label)     | Node.js Headless CMS to easily build customisable APIs                 |
+| [Caprover](https://github.com/caprover/caprover/pulls?q=is%3Apr+author%3Asidharthv96)  | ![GitHub stars](https://img.shields.io/github/stars/caprover/caprover?style=social&label) | Automated Scalable PaaS Package - Heroku on Steroids                   |
+| [Manta](https://github.com/hql287/Manta/pulls?q=is%3Apr+author%3Asidharthv96)          | ![GitHub stars](https://img.shields.io/github/stars/hql287/Manta?style=social&label)      | Flexible invoicing desktop app with beautiful & customizable templates |
 
 # Projects
 
